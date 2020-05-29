@@ -1,0 +1,13 @@
+C:\Users\hspro\workspace\csharp\exercises\linqchallenge\bin\Debug\netcoreapp3.1\linqchallenge.exe
+C:\Users\hspro\workspace\csharp\exercises\linqchallenge\bin\Debug\netcoreapp3.1\linqchallenge.deps.json
+C:\Users\hspro\workspace\csharp\exercises\linqchallenge\bin\Debug\netcoreapp3.1\linqchallenge.runtimeconfig.json
+C:\Users\hspro\workspace\csharp\exercises\linqchallenge\bin\Debug\netcoreapp3.1\linqchallenge.runtimeconfig.dev.json
+C:\Users\hspro\workspace\csharp\exercises\linqchallenge\bin\Debug\netcoreapp3.1\linqchallenge.dll
+C:\Users\hspro\workspace\csharp\exercises\linqchallenge\bin\Debug\netcoreapp3.1\linqchallenge.pdb
+C:\Users\hspro\workspace\csharp\exercises\linqchallenge\obj\Debug\netcoreapp3.1\linqchallenge.csprojAssemblyReference.cache
+C:\Users\hspro\workspace\csharp\exercises\linqchallenge\obj\Debug\netcoreapp3.1\linqchallenge.AssemblyInfoInputs.cache
+C:\Users\hspro\workspace\csharp\exercises\linqchallenge\obj\Debug\netcoreapp3.1\linqchallenge.AssemblyInfo.cs
+C:\Users\hspro\workspace\csharp\exercises\linqchallenge\obj\Debug\netcoreapp3.1\linqchallenge.csproj.CoreCompileInputs.cache
+C:\Users\hspro\workspace\csharp\exercises\linqchallenge\obj\Debug\netcoreapp3.1\linqchallenge.dll
+C:\Users\hspro\workspace\csharp\exercises\linqchallenge\obj\Debug\netcoreapp3.1\linqchallenge.pdb
+C:\Users\hspro\workspace\csharp\exercises\linqchallenge\obj\Debug\netcoreapp3.1\linqchallenge.genruntimeconfig.cache
