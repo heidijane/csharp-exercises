@@ -2,9 +2,16 @@ using System;
 
 namespace inheritance
 {
-    public class Ram : Vehicle
+    public class Ram : Vehicle, IGasVehicle
     {
         public double FuelCapacity { get; set; }
+
+        public int CurrentTankPercentage { get; set; }
+
+        void RefuelTank()
+        {
+            CurrentTankPercentage = 100;
+        }
 
         public override void Drive()
         {

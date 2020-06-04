@@ -2,13 +2,15 @@ using System;
 
 namespace inheritance
 {
-    public class Zero : Vehicle
+    public class Zero : Vehicle, IElectricVehicle
     {
         public double BatteryKWh { get; set; }
 
+        public int CurrentChargePercentage { get; set; }
+
         public void ChargeBattery()
         {
-            // method definition omitted
+            CurrentChargePercentage = 100;
         }
 
         public override void Drive()
